@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito interessante! Só me procupa a quantidade de issues com o portal para um curso de webdev...
