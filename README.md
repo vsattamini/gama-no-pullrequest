@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Muito interessante! Meio complexo só dar erro no sistema para um treinamento de webdev
